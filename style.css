@@ -79,17 +79,17 @@ footer {
 }
 
 a {
-  color: black;
+  color: yellow;
 }
 
 a:visited {
-  color: black;
+  color: brown;
 }
 
 a:hover {
-  color: brown;
+  color: grey;
 }
 
 a:active {
-  color: brown;
+  color: purple;
 }
